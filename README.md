@@ -48,6 +48,8 @@ After importing and installing Kali Linux in VMware, follow these steps to share
 
 <img width="1715" height="795" alt="image" src="https://github.com/user-attachments/assets/70208ac3-d88d-433e-8269-c5e1ccb1dbe4" />
 <img width="1812" height="776" alt="image" src="https://github.com/user-attachments/assets/2026d57e-217b-47f9-b817-d9017b2998a8" />
+<img width="1767" height="740" alt="image" src="https://github.com/user-attachments/assets/a07f1fd9-423a-4fbb-9d40-ca512428a74c" />
+
 
 
 
