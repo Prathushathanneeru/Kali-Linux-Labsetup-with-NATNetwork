@@ -39,9 +39,14 @@ After importing and installing Kali Linux in VMware, follow these steps to share
    - **Gateway:** `10.0.0.254`
    - **Netmask:** `255.255.255.0`
 3. Set **DNS** to `8.8.8.8`, then click **OK**.
-## The files and folders can be sharable from your WindowsOS to the Kali Linux Operating System. 
+
 <img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/518e0927-2111-4e2b-a1e6-14f7b0e18976" />
 <img width="1080" height="677" alt="image" src="https://github.com/user-attachments/assets/82581aec-bc47-45af-b80c-7c1d0eac44fa" />
+
+## The files and folders can be sharable from your WindowsOS to the Kali Linux Operating System. 
+
+
+<img width="1715" height="795" alt="image" src="https://github.com/user-attachments/assets/70208ac3-d88d-433e-8269-c5e1ccb1dbe4" />
 
 
 
